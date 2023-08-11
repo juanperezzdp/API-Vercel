@@ -1,7 +1,7 @@
 {
     "build": [
         {
-            "src": "./src/index.js",
+            "src": "/src/index.js",
             "use": "@now/node",
             "buildCommand": "next build"
         }
